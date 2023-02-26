@@ -18,10 +18,14 @@ For detailed instructions on setting up your environment and completing the prac
 
 This repository contains the following practical exercises:
 
--Excercie-1:Launch linux instances connect with ssh, use scp to copy files from local system to cloud vice versa
+-Excercie-1:Launch linux instances connect with ssh, use scp to copy files from local system to cloud vice versa.
+
 -Excercie-2:Launch windows instance and install IIS server.
+
 -Excercie-3:Hosting multiple applications inside a Site in IIS serve 
+
 -Excercie-4: Scripting with user data in ec2 Linux, versioning in s3, Static website hosting
+
 -Excercie-5: Create an Amazon EBS system using Amazon EC2 Launch Instance
 
 Each exercise includes detailed instructions and sample code to help you complete the exercise successfully.
